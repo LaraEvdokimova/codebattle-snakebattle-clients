@@ -5,7 +5,7 @@ namespace Client
 {
     class Program
     {
-        const string SERVER_ADDRESS = "http://codebattle-pro-2020s1.westeurope.cloudapp.azure.com/codenjoy-contest/board/player/ln5iawtdhaj4jtmsfbbb?code=8362014667098800366
+        const string SERVER_ADDRESS = "http://codebattle-pro-2020s1.westeurope.cloudapp.azure.com/codenjoy-contest/board/player/ztfnr2zkf5w5zgdasmu0?code=9072519126209900771
        ";
 
         static void Main(string[] args)
